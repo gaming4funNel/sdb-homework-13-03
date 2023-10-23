@@ -68,6 +68,7 @@
 Дополнительная информация по **Fail2Ban**:https://putty.org.ru/articles/fail2ban-ssh.html.
 
 ![fail2ban](https://github.com/gaming4funNel/sdb-homework-13-03/blob/main/img/fail2ban.png)
+![suricata](https://github.com/gaming4funNel/sdb-homework-13-03/blob/main/img/suricata.png)
 
 Fail2ban забанил подключение и до и после включения enabled в true в секции ssh.
 
